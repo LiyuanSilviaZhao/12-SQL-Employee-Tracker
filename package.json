@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.5",
+    "mysql2": "^2.3.3"
+  },
+  "name": "12-sql-employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiyuanSilviaZhao/12-SQL-Employee-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiyuanSilviaZhao/12-SQL-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/LiyuanSilviaZhao/12-SQL-Employee-Tracker#readme"
+}
